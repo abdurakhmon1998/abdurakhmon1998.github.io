@@ -1,0 +1,28 @@
+body
+{
+	background-color: #ADD8E6
+}
+h1
+{	font-family:Verdana;
+	font-size:30pt;
+	text-align:center;
+	color: #A52A2A
+}
+p
+{	font-family:Tahoma;
+	font-size:15pt;
+	text-align:left;
+	color: 	#800000
+}
+h2
+{	font-family:Ariel;
+	font-size:25pt;
+	text-align:center;
+	color: #000080
+}
+ol
+{	font-family:Italic;
+	font-size:15pt;
+	text-align:left;
+	color: #000080
+}
